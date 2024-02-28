@@ -1,0 +1,47 @@
+body {
+	font-family: Work Sans,sans-serif;
+	backgroud-color: rgb(185,179,175)
+;}
+h1	{ 
+}
+
+div.nav {
+	word-spacing: 3em;
+	align: right
+	float: inline-end;
+	overflow: auto;
+}
+
+.footer{ 
+	position: flex;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+
+}
+.Searchss {
+	position: flex;
+	top: 0;
+	right: 0;
+	width: 100%;
+
+}
+
+.product{
+	text-align: center;
+}
+.prodoption1 .prodoption2 .prodoption3 {
+
+
+}
+
+figcaption {
+	text-align:;
+
+
+}
+
+.image-container {
+	
+
+}
